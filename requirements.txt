@@ -1,0 +1,4 @@
+apyori
+pandas
+numpy 
+matplotlib
